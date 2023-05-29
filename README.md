@@ -1,1 +1,1 @@
-# digital-git-course
+# Digital Git course
