@@ -1,3 +1,3 @@
 # Digital Git course
 
-# add novo comando -> git status
+## add novo comando -> git status
